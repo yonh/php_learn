@@ -39,6 +39,14 @@
 
 
 
+# PHP环境
+
+localhost   127.0.0.1  :本地
+
+代码目录： C:\xampp\htdocs
+
+默认访问index.html
+
 # Git && Github
 
 -[x] 创建帐号
