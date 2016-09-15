@@ -1,7 +1,6 @@
 # 课程介绍
 
 -[x] 软件介绍
--[ ] 基础术语
 -[x] Github
 -[ ] PHP环境搭建
 -[ ] 基础的语法
@@ -17,6 +16,7 @@
 * xampp  (php,mysql,apache) 配置环境
 * phpstorm,sublime
 * 数据库的客户端heidisql
+* Typora markdown编辑器
 
 
 
@@ -43,8 +43,8 @@
 
 -[x] 创建帐号
 -[x] 创建代码库
--[ ] fork代码（拷贝代码）
--[ ] 代码提交，push
+-[x] fork代码（拷贝代码）
+-[x] commit，push
 
 
 
