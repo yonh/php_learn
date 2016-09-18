@@ -1,3 +1,9 @@
+## 视频下载地址
+
+https://pan.baidu.com/s/1ge7zW5P
+
+
+
 # HTML
 
 HTML 是用来描述网页的一种语言。或者说是浏览器能直接解析的一种文本格式。
@@ -49,7 +55,7 @@ HTML5是HTML最新的一个版本，目前常用的HTML指的是HTML4,对于我�
 
 ## HTML标签
 
-html由各种标签组成，比方说<br/>,<hr/>,<h1>,<h2>等。
+html由各种标签组成，比方说`<br/>,<hr/>,<h1>,<h2>`等。
 
 HTML5全部标签: http://www.w3school.com.cn/tags/index.asp
 
