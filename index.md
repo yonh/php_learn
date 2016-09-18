@@ -2,11 +2,13 @@
 
 -[x] 软件介绍
 -[x] Github
--[ ] PHP环境搭建
+-[x] PHP环境搭建
 -[ ] 基础的语法
 
 
--[ ] markdown语法
+-[x] markdown语法
+-[x] HTML, Javascript,
+-[ ] sublime安装插件,安装git
 
 
 
@@ -17,6 +19,7 @@
 * phpstorm,sublime
 * 数据库的客户端heidisql
 * Typora markdown编辑器
+
 
 
 
@@ -37,28 +40,41 @@
 
 ## Markdown语法
 
+```
+# 一级标题
+## 二级标题
+...
+
+* 无序列表
+1. 有序列表
+
+`单行代码`
+
+​```编程语言 代码框
+​```
+
+任务列表
+-[ ] 未完成
+-[x] 完成
+
+# 帮助文档
+Help->Markdown Reference
+```
+
+
+
+
+
+# PHP环境
+
+localhost   127.0.0.1  :本地
+
+代码目录： C:\xampp\htdocs
+
+默认访问index.html
+
+web服务默认端口80，mysql默认端口3306
+
 
 
 # Git && Github
-
--[x] 创建帐号
--[x] 创建代码库
--[x] fork代码（拷贝代码）
--[x] commit，push
-
-
-
-# 简单单词
-
-new 新建
-
-download 下载
-
-edit 编辑
-
-delete 删除
-
-update 更新
-
-
-
