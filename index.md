@@ -7,7 +7,7 @@
 
 
 -[x] markdown语法
--[x] HTML, Javascript,
+-[x] HTML, Javascript,CSS,PHP
 -[ ] sublime安装插件,安装git
 
 
@@ -71,10 +71,60 @@ localhost   127.0.0.1  :本地
 
 代码目录： C:\xampp\htdocs
 
-默认访问index.html
+默认访问`index.php`, `index.html` 
 
 web服务默认端口80，mysql默认端口3306
 
 
 
 # Git && Github
+
+-[x] 创建帐号
+-[x] 创建代码库
+-[x] fork代码（拷贝代码）
+-[x] commit，push
+
+
+
+# sublime
+
+## 添加项目
+
+project -> add folder to project-> 选择你的项目目录
+
+
+
+不用编写太多相同的代码
+
+
+
+# php基础语法
+
+```PHP
+echo 1; // 输出
+print 1;// 输出
+print_r(1);//输出
+var_dump(1);
+
+if (真假) {  // false true    0=false 非零=true
+}
+
+// 循环
+while (真假) {
+  
+}
+
+die; //中断
+exit;
+
+// 单行
+/* 多行注释 */
+
+''  //
+```
+
+
+
+
+
+格式化
